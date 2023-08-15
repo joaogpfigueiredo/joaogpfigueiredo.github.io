@@ -21,7 +21,6 @@ header > h1 {
     line-height: 1.3em;
 
     text-align: center;
-    text-shadow: 2px 2px 1px #ffffffb5;
 
     color: white;
     padding: 10px;
@@ -44,6 +43,15 @@ main {
 
 main > section {
     text-align: center;
+}
+
+main > section > p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    text-align: center;
+    line-height: 1.3em;
+
+    padding: 10px;
 }
 
 main > section > a > img {
